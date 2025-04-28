@@ -18,5 +18,5 @@ Follow these steps to run the project locally:
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/muneefrehman/ThreeJS-Template-Project.git)
 cd <project-folder>

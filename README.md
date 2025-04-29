@@ -49,9 +49,9 @@ Click the local server link to view your project!
 
 ## 🛠️ Built With
 
-	•	Three.js — JavaScript 3D library
-	•	Vite — Frontend build tool
-	•	Vanilla JavaScript and CSS
+- Three.js — JavaScript 3D library
+- Vite — Frontend build tool
+- Vanilla JavaScript and CSS
 
 ## 📸 Screenshot
 
